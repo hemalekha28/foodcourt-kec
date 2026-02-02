@@ -4,7 +4,7 @@
 
 Updated the home page carousel to showcase mobile accessories products with relevant content and imagery.
 
-## Carousel Slides Updated
+## Carousel Slides UPDATED
 
 ### ✅ **Slide 1: Phone Cases & Covers**
 **Before**: Premium Gadgets, Exclusive Prices
